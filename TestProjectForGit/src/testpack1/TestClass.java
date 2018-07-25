@@ -7,7 +7,7 @@ public class TestClass {
     System.out.println("Pulling latest changes from git to local");
     
     
-    System.out.println("pushing to git ");
+    System.out.println("pushing to git changing from git lets see what will happen now");
     
   }
   
